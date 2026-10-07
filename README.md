@@ -7,6 +7,8 @@
 A simple semantic search project built in **Google Colab** using the **Gemini Embedding API**.
  SDAIA Program for Developing AI Solution 
 
+This project was completed as part of training/assignment work related to SDAIA Academy.
+🔗 [Visit SDAIA Academy on GitHub](https://github.com/SDAIAAcademy)
 
 The notebook loads a text file, splits it into overlapping chunks, converts every chunk into a dense vector embedding, accepts a user question, and returns the **Top 3 most semantically relevant chunks** using cosine similarity.
 
