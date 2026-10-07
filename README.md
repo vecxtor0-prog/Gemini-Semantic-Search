@@ -517,43 +517,5 @@ The project focuses on:
 
 ---
 
-## 📌 Repository Information
-
-### Repository Name
-
-```text
-gemini-semantic-search
-```
-
-### GitHub Description
-
-```text
-Semantic search pipeline using Gemini embeddings, overlapping text chunking, cosine similarity, and Top-K retrieval in Google Colab.
-```
-
-### Suggested Topics
-
-```text
-gemini
-semantic-search
-embeddings
-cosine-similarity
-information-retrieval
-google-colab
-python
-rag
-nlp
-vector-search
-```
-
----
-
-<div align="center">
-
-## 🔎 Gemini Semantic Search
-
-Built with **Python • Gemini API • NumPy • Google Colab**
-
-**Semantic retrieval using dense vector embeddings and cosine similarity.**
 
 </div>
